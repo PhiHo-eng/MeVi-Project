@@ -1,0 +1,37 @@
+BeginZE /home/philipp/Dokumente/Uni/Uni Bozen/MeVi/Projekt MeVi/Shell_mit_Nabenbohrung.gid/Shell_mit_Nabenbohrung.vv
+   x -69.7213134765625 265.2919921875
+   y 273.43328857421875 5.66298055648803711
+   z -1682.6082763671875 1677.1082763671875
+   e 435.889892578125
+   v -0.237118557095527649 -0.270566731691360474 -0.107955329120159149
+   r 0.92677617073059082
+   m 0.830278575420379639 0.328413635492324829 -0.450313180685043335 0 -0.0717880651354789734 0.864240884780883789 0.497929900884628296 0 0.552706003189086914 -0.381093412637710571 0.741136848926544189 0 0 0 0 1
+   c 61.4871673583984375 107.718925476074219 2.75
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 0
+   DrawingType 0
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 0
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE /home/philipp/Dokumente/Uni/Uni Bozen/MeVi/Projekt MeVi/Shell_mit_Nabenbohrung.gid/Shell_mit_Nabenbohrung.vv
+
+BeginMirror
+   Mirror 0 Angle 0.0 AngleFake -15.0 SizeFactor 2.0 HeightOffset 0.25 Color #d9e5f24d Backlight Off EdgeStyle No Type Scene DrawMode Mirror
+EndMirror
+
